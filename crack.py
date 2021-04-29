@@ -600,7 +600,6 @@ def results(Successful,Checkpoint):
 
 
 if __name__ == '__main__':
-	hapus()
-	license()
+	moch_yayan()
 
 # cie ga bisa ngoding 
